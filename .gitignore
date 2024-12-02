@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore Django-specific files
+*.log
+*.pot
+*.pyc
+
+# Ignore system files
+.DS_Store  # For macOS
+Thumbs.db  # For Windows
